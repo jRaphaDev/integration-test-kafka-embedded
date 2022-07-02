@@ -1,1 +1,1 @@
-#givenEmbeddedKafkaBroker_whenSendingWithSimpleProducer_thenMessageReceived
+#KafkaEmbedded - Integration Test
